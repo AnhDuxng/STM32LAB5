@@ -1,0 +1,4 @@
+auto_fsm.c:25:5:isCmdEqualToRST	24	static
+auto_fsm.c:34:5:isCmdEqualToOK	24	static
+auto_fsm.c:43:6:cmd_parser_fsm	8	static
+auto_fsm.c:70:6:uart_comms_fsm	64	static
